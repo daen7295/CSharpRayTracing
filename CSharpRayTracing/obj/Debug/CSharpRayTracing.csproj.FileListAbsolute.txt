@@ -1,0 +1,10 @@
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\bin\Debug\CSharpRayTracing.exe.config
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\bin\Debug\CSharpRayTracing.exe
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\bin\Debug\CSharpRayTracing.pdb
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.csprojAssemblyReference.cache
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\HeavyRayTracing.Form1.resources
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.Properties.Resources.resources
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.csproj.GenerateResource.cache
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.csproj.CoreCompileInputs.cache
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.exe
+C:\Users\dean\source\repos\CSharpRayTracing\CSharpRayTracing\obj\Debug\CSharpRayTracing.pdb
